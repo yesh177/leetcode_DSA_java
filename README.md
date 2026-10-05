@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yesh177/leetcode_DSA_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/yesh177/leetcode_DSA_java/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/yesh177/leetcode_DSA_java/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yesh177/leetcode_DSA_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yesh177/leetcode_DSA_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/yesh177/leetcode_DSA_java/tree/master/0402-remove-k-digits) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yesh177/leetcode_DSA_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yesh177/leetcode_DSA_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/yesh177/leetcode_DSA_java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yesh177/leetcode_DSA_java/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yesh177/leetcode_DSA_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yesh177/leetcode_DSA_java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
